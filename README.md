@@ -1,1 +1,1 @@
-# NeuralNet
+# NeuralNet is trash
